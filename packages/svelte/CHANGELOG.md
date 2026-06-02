@@ -1,5 +1,11 @@
 # svelte
 
+## 5.56.2
+
+### Patch Changes
+
+- fix: reject pending async deriveds on discard ([#18308](https://github.com/sveltejs/svelte/pull/18308))
+
 ## 5.56.1
 
 ### Patch Changes
